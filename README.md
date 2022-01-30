@@ -1,0 +1,1 @@
+# Aggriculturalble_land_dectection_from_sataleite_images-
