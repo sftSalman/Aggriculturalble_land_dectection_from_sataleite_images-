@@ -15,4 +15,4 @@ also to differentiate arable lands from
 the non arable ones in order to produce
 a collected of the arable lands in
 Bangladesh.
-![image](https://user-images.githubusercontent.com/33355278/152309143-068110fe-446b-4940-99af-9e6d320e72e4.png)
+Fig : Satelite View ![image](https://user-images.githubusercontent.com/33355278/152309143-068110fe-446b-4940-99af-9e6d320e72e4.png)
