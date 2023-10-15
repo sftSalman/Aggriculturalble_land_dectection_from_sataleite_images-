@@ -20,3 +20,4 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+Arable_land_and_nonarable_land_detection_YOLOv4.ipynb
