@@ -1,4 +1,5 @@
-![Uploading a.gif…]()
+![a](https://github.com/sftSalman/Arable_land_and_nonarable_land_dectection_from_sataleite_images-/assets/33355278/017a4ad1-08e2-4afc-ab06-f1807301644a)
+
 
 
 Bangladesh is a small country with a
