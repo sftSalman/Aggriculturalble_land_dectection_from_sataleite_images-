@@ -22,7 +22,7 @@
 
 - **Mean Average Precision (mAP@0.50):** 76%
 - **Class-wise precision:**
-  - Westland(): 80%
+  - Not-Used(westland): 80%
   - Arable(cultivated): 73%
   - None_arable (non-cultivated): 70%
 
