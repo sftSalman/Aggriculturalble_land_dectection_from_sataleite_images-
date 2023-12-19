@@ -23,7 +23,7 @@
 - **Mean Average Precision (mAP@0.50):** 76%
 - **Class-wise precision:**
   - Wasteland: 80%
-  - Arable: 73%
+  - Arable(cultivated): 73%
   - None_arable (non-cultivated): 70%
 
 The project involved collecting, preprocessing, annotating, and training a model using Google Earth images. The trained model achieved an overall mean average precision of 76%, with varying precision rates for different classes, notably 80% for wasteland, 73% for arable, and 70% for none_arable (non-cultivated). The highest accuracy was attained at epoch 55, and the model's performance slightly declined in subsequent epochs.
